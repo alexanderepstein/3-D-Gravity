@@ -1,4 +1,5 @@
-# Gravity
+# Gravity ![Galaxy Logo](https://github.com/alexanderepstein/3-D-Gravity/blob/master/galaxy.png)
+
 ### Wentworth Institute Of Technology
 
 # Why
